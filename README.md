@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cobriensr
-- 👀 I’m interested in general coding, data analytics, data engineering and college football (Roll Tide!) and  
-- 🌱 I’m currently learning Go and ReactJS
-- 💞️ I’m looking to collaborate on open source projects with back-ends written in Go
+- 👀 I’m interested in coding, data analytics, data engineering and college football (Roll Tide!)
+- 🌱 I’m currently learning Typescript, Svelte and Go
+- 💞️ I’m looking to collaborate on open source projects with back-ends written in Go or Typescript
 - 📫 You can reach me via email at charles.a.obrien@outlook.com
 
 <!---
