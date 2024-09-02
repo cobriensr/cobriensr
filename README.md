@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cobriensr
 - 👀 I’m interested in devops, back-end development, data analytics, data engineering, software integration/implementations and college football (Roll Tide!)
-- 🌱 I’m currently using Go, Python, Javascript/Typescript, Svelte and Docker
+- 🌱 I’m currently using C#, Python, Javascript/Typescript, NextJS, React and Docker
 - 💞️ I’m looking to collaborate on open source projects with back-ends written in Go, Typescript or Python
 - 📫 You can reach me via email at charles.a.obrien@outlook.com
 
