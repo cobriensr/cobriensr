@@ -3,6 +3,7 @@
 - 🌱 I’m currently using C#, Python, Javascript/Typescript, ExpressJS, NextJS, React, Blazor, Docker, Terraform and Kubernetes
 - 💞️ I’m looking to collaborate on open source projects with back-ends written in Python, Typescript or C#
 - 📫 You can reach me via email at charles.a.obrien@outlook.com
+- Check out my roadmap profile!
 [![roadmap.sh](https://roadmap.sh/card/tall/65e6b302d064ed50857518fb?variant=dark&roadmaps=full-stack%2Cdevops%2Creact%2Ckubernetes)](https://roadmap.sh)
 <!---
 cobriensr/cobriensr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
